@@ -60,7 +60,7 @@ header {
 h1 {
     font-size: 3rem;
     margin-bottom: 10px;
-    background: linear-gradient(90deg, #00d4ff, #a200ff);
+    background: linear-gradient(90deg, #00d4ff, #3cff00);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -94,7 +94,7 @@ header p {
 
 .content-card h2 {
     margin-bottom: 15px;
-    color: #7e9e43;
+    color: #0ba6b1;
     font-size: 1.5rem;
 }
 
